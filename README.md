@@ -38,9 +38,9 @@
 
 # 🏆 Featured Projects
 
-**Goorg** → A personal organization system similar to softwares like Notion, Trello, and Evernote.  </br>
-**SIPPA2** → A redesign of an old academic system called SIPPA, whose function was to assist students in submitting assignments and viewing grades, as well as helping teachers configure grading. </br>
-**Magicdle** → A card guessing game based on Magic: The Gathering, similar to games like Pokedle and Loodle. </br>
+**NPI-Pratice** → A simple CRUD project where I train Docker to run a PostgreSQL image along with a Spring Boot API and a VueJS front-end.<br>
+**SistemaDeJogosPersistencia** → A simple CRUD project in Python where I create routes that consume a Steam API to generate graphs and information about the players.<br>
+**TCCResults** → Results from my final year project showing the code written to train the language model for analyzing code smells and its respective results. You can read it [here](https://drive.google.com/file/d/1KSNAfAPEN2SsuUhTRTva14GzSAEzuEvy/view?usp=sharing).
 
 ---
 
