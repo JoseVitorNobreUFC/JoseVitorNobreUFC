@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vitor-de-oliveira-nobre-1071291a5/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josevitortinf@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Ceará,_Brazil-green)]()
-[![GitHub Acadêmico](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/JoseVitorNobreUFC)
+[![GitHub Acadêmico](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/JoseVitorNobre)
 
 </div>
 
